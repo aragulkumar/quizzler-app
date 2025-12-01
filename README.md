@@ -1,8 +1,8 @@
-#Quizzler App
+# Quizzler App
 
 A simple Python GUI Quiz Application that asks True/False questions and keeps track of the score. This project is part of the 100 Days of Code: Python Bootcamp.
 
-🎯 #Features
+# 🎯 Features
 
 Displays questions one by one
 
@@ -16,7 +16,7 @@ Clean and modern GUI using tkinter
 
 Simple and modular code structure
 
-🧱 #Tech Stack
+# 🧱 Tech Stack
 
 Python
 
@@ -24,29 +24,27 @@ Tkinter
 
 API-based Question Bank (optional based on your version)
 
-📂 #Project Structure
+# 📂 Project Structure
 main.py
 quiz_brain.py
 ui.py
 data.py
 
-▶️ How to Run
+# ▶️ How to Run
 
 Clone the repo:
-
 git clone https://github.com/aragulkumar/quizzler-app.git
 
 
 Install requirements (if any):
-
 pip install -r requirements.txt
 
 
 Run the app:
-
 python main.py
 
-🧩 #Concepts Learned
+
+# 🧩 Concepts Learned
 
 Using OOP in Python
 
@@ -58,7 +56,7 @@ Managing quiz state
 
 Event-driven programming
 
-✨ #Future Improvements
+# ✨ Future Improvements
 
 Add more question types (MCQ)
 
@@ -68,6 +66,6 @@ Add difficulty levels
 
 Use online API for questions
 
-📚 #Credit
+# 📚 Credit
 
 This project was built by following the 100 Days of Python Bootcamp – Dr. Angela Yu.
